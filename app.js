@@ -107,6 +107,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 if (!isGameOver) {
                     score += 10;
                     e.target.remove();
+                    currentZombies--;
                     updateScore();
                 }
             } else {
