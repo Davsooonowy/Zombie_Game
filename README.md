@@ -1,7 +1,7 @@
 # Zombie_Game
 easy web zombie game, rules are in readme.
 
-Rules:
+Rules: <br>
 -aim and shoot with the mouse <br>
 -a shot zombie gives you 10 points <br>
 -each miss is -3 points <br>
